@@ -1,6 +1,7 @@
 ## About Me
 - 👋 Hi there! I'm Anchan, a passionate software developer with a love for open-source projects. I enjoy creating applications, algorithm, and exploring new technologies.
 - 👀 I’m interested in Anime, Science and stuff.
+  
 ![49161097827_2bbfcae5f4_o](https://github.com/chanadinh/chanadinh/assets/162244788/38eb6508-2e08-43c3-a70a-629304cdf091)
 ## Skills
 
