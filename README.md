@@ -1,5 +1,5 @@
 # Welcome!
-![49161097827_2bbfcae5f4_o](https://github.com/chanadinh/chanadinh/assets/162244788/dfd04f7d-25a8-4cff-8ec8-a6b9a4c4bb97)
+![49161097827_2bbfcae5f4_o](https://github.com/chanadinh/chanadinh/assets/162244788/38eb6508-2e08-43c3-a70a-629304cdf091)
 ## About Me
 
 -👋 Hi there! I'm Anchan, a passionate software developer with a love for open-source projects. I enjoy creating web applications and exploring new technologies.
