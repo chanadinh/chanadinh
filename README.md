@@ -45,59 +45,7 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-## 🌟 Featured Projects
 
-### 🎌 [Meduhentai - Modern Manga Platform](https://github.com/chanadinh/meduhentai)
-**A sophisticated manga reading platform with modern UI/UX design**
-
-**🎨 Key Features:**
-- **Modern Dark Theme**: Glassmorphism design with stunning gradients
-- **Advanced Manga Reader**: Immersive reading experience with chapter navigation
-- **User System**: Authentication, profiles, favorites, and role management
-- **Real-time Interactions**: Like/dislike system, comments, notifications
-- **Cloud Storage**: Cloudflare R2 integration for large file uploads
-- **Analytics Dashboard**: Comprehensive visitor tracking and statistics
-- **Mobile Optimized**: Responsive design for all devices
-
-**🛠️ Tech Stack:**
-- **Frontend**: Next.js 15, React 19, TypeScript, HeroUI, Tailwind CSS
-- **Backend**: Next.js API Routes, NextAuth.js v5
-- **Database**: MongoDB with Mongoose
-- **Storage**: Cloudflare R2, Image optimization
-- **Deployment**: Vercel with automatic deployments
-
-**🌟 Highlights:**
-- **50+ files modified** with comprehensive UI/UX improvements
-- **Complete Vietnamese localization** for local community
-- **Advanced image handling** with compression and optimization
-- **Real-time features** with WebSocket-like interactions
-- **Professional design** with accessibility compliance
-
----
-
-### 🤖 [Medusa Discord Bot](https://github.com/chanadinh/medusaver2)
-**A feature-rich Discord bot built with Node.js**
-
-**⚡ Features:**
-- **Multi-purpose Commands**: Utility, moderation, and entertainment commands
-- **Custom Functionality**: Tailored for community management
-- **Reliable Performance**: Stable operation with error handling
-- **Easy Setup**: Simple configuration and deployment
-
-**🛠️ Tech Stack:**
-- **Runtime**: Node.js
-- **Library**: Discord.js
-- **Database**: File-based storage
-- **Hosting**: Cloud deployment ready
-
----
-
-### 🔮 [Future Projects]
-**Currently exploring and planning:**
-- **AI-Powered Manga Recommendation System**
-- **Real-time Chat Application with WebRTC**
-- **Mobile App Development with React Native**
-- **Machine Learning Projects with Python**
 
 ## 📊 GitHub Statistics
 
@@ -111,41 +59,6 @@
 
 </div>
 
-## 🏆 Achievements & Highlights
-
-### **🎨 UI/UX Design Excellence**
-- Created **stunning glassmorphism interfaces** with modern design principles
-- Implemented **responsive layouts** that work perfectly across all devices
-- Designed **accessible interfaces** with proper ARIA support and keyboard navigation
-
-### **⚡ Performance Optimization**
-- Achieved **significant performance improvements** with Turbopack integration
-- Implemented **image optimization** and compression techniques
-- Built **efficient database queries** and caching strategies
-
-### **🔧 Technical Innovation**
-- Developed **real-time interaction systems** without WebSocket complexity
-- Created **secure file upload systems** with Cloudflare R2 integration
-- Built **comprehensive analytics** and visitor tracking systems
-
-### **🌐 Full-Stack Expertise**
-- **Frontend**: Modern React applications with advanced state management
-- **Backend**: RESTful APIs with authentication and authorization
-- **Database**: Efficient MongoDB schemas and aggregation pipelines
-- **DevOps**: Automated deployment pipelines and cloud infrastructure
-
-## 🎯 Current Focus
-
-### **Learning & Exploring**
-- 🔍 **Advanced React Patterns**: Server Components, Suspense, Concurrent Features
-- 🚀 **Performance Optimization**: Core Web Vitals, Bundle Analysis
-- 🤖 **AI Integration**: Exploring AI-powered features for web applications
-- 📱 **Mobile Development**: React Native and cross-platform solutions
-
-### **Open Source Contributions**
-- 🌟 **Active contributor** to open source projects
-- 💡 **Sharing knowledge** through code and documentation
-- 🤝 **Community engagement** in developer forums and Discord servers
 
 ## 💼 Professional Experience
 
@@ -165,7 +78,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andinhc254@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@chandinh.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chan-dinh-a27710260/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanadinh)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anchan7802)
