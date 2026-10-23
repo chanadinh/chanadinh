@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="64" viewBox="0 0 960 64"><defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101326"/><stop offset="1" stop-color="#181130"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#c4a7ff"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#c4a7ff" stroke-opacity=".055"/></pattern></defs>
+<rect width="100%" height="100%" rx="18" fill="url(#bg)"/><rect width="100%" height="100%" rx="18" fill="url(#grid)"/><text x="28" y="38" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" fill="#c4a7ff">LESS SCROLLING. MORE BUILDING.</text><text x="662" y="38" font-family="DejaVu Sans Mono, monospace" font-size="11" font-weight="400" fill="#67e8f9">THANKS FOR STOPPING BY :)</text></svg>

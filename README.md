@@ -1,55 +1,66 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Hey, I'm Chan. AI / ML, full-stack development, and reverse engineering. Curious about how it works. Stubborn enough to build it." />
+</p>
 
-# Chan Dinh
+<p align="center">
+  <a href="mailto:contact@chandinh.org"><img src="https://img.shields.io/badge/LET'S_TALK-c4a7ff?style=for-the-badge&amp;logo=gmail&amp;logoColor=101326" alt="Email Chan" /></a>
+  <a href="https://www.linkedin.com/in/chan-dinh-a27710260/"><img src="https://img.shields.io/badge/LINKEDIN-67e8f9?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/chanadinh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOS-252139?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-### AI / ML · Full-stack development · Reverse engineering
+<br />
 
-Building web applications, exploring intelligent systems, and taking games apart to understand how they work.
+### A little about me
 
-[Projects](#selected-projects) · [LinkedIn](https://www.linkedin.com/in/chan-dinh-a27710260/) · [Email](mailto:contact@chandinh.org)
+I'm a developer in Florida who likes following an idea all the way down—from the interface to the API, the model, or the game logic underneath.
 
-</div>
+Right now, that means **AI-assisted security tooling**, **web applications**, and **figuring out what makes Pokémon X tick**. Outside the editor: anime, manga, science, and games.
 
----
+<br />
 
-## What I'm building
+### On my workbench
 
-My work spans Python pipelines, TypeScript applications, and portable C. I enjoy connecting the interface people use with the systems underneath it—and documenting what works along the way.
+<p align="center">
+  <a href="https://github.com/chanadinh/threat-hunting-pipeline"><img src="assets/threat-hunting.svg" width="49%" alt="Threat Hunting Pipeline — Python, RAG, AWS, and detection rules" /></a>
+  <a href="https://github.com/chanadinh/pokemon-x-decomp"><img src="assets/pokemon-x.svg" width="49%" alt="Pokémon X — early-stage reverse engineering in C, with tests and an asset viewer" /></a>
+  <a href="https://github.com/chanadinh/next-portfolio"><img src="assets/portfolio.svg" width="49%" alt="Next.js Portfolio — TypeScript, React, and MongoDB" /></a>
+  <a href="https://github.com/chanadinh/medusa_bot"><img src="assets/medusa.svg" width="49%" alt="Medusa Bot — JavaScript, Discord, and API integrations" /></a>
+</p>
 
-- **AI & security:** exploring threat intelligence workflows with LLMs, retrieval, and detection rules.
-- **Web development:** building with Next.js, React, TypeScript, and Node.js.
-- **Reverse engineering:** reconstructing Pokémon X game logic with assembly evidence and synthetic tests.
+<p align="center"><sub>Experiments and works in progress. Pokémon X is an early reconstruction, with no playable PC port yet.</sub></p>
 
-## Selected projects
+<br />
 
-| Project | What you'll find | Focus |
-| :--- | :--- | :--- |
-| [Threat Hunting Pipeline](https://github.com/chanadinh/threat-hunting-pipeline) | Threat-feed ingestion, MITRE ATT&CK mapping, LLM-assisted Sigma rule generation, and analyst reports. Includes an offline mode with sample feeds and a mock LLM. | Python · RAG · AWS |
-| [Pokémon X Decompilation](https://github.com/chanadinh/pokemon-x-decomp) | Early-stage reconstruction of game logic in portable C, with eight tested subsystem milestones and a native asset viewer. | C · Python · Reverse engineering |
-| [Next.js Portfolio](https://github.com/chanadinh/next-portfolio) | A portfolio application with project management, an admin dashboard, and MongoDB integration. | Next.js · TypeScript · MongoDB |
-| [Medusa Bot](https://github.com/chanadinh/medusa_bot) | A Discord bot integrating multiple APIs. | JavaScript · Discord |
+### My toolkit
 
-The Pokémon X project is a work in progress: it does not yet provide a playable PC port.
+<p>
+  <img src="assets/icons/python.svg" height="36" width="36" alt="Python" title="Python" />&nbsp;
+  <img src="assets/icons/typescript.svg" height="36" width="36" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="assets/icons/javascript.svg" height="36" width="36" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="assets/icons/c.svg" height="36" width="36" alt="C" title="C" />&nbsp;
+  <img src="assets/icons/react.svg" height="36" width="36" alt="React" title="React" />&nbsp;
+  <img src="assets/icons/nextjs.svg" height="36" width="36" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="assets/icons/tailwindcss.svg" height="36" width="36" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="assets/icons/nodejs.svg" height="36" width="36" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="assets/icons/mongodb.svg" height="36" width="36" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="assets/icons/docker.svg" height="36" width="36" alt="Docker" title="Docker" />
+</p>
 
-[Explore all repositories →](https://github.com/chanadinh?tab=repositories)
+<sub>Python for pipelines and experiments. TypeScript for the web. C for understanding what happens underneath.</sub>
 
-## Tools I work with
+<br /><br />
 
-| Area | Technologies |
-| :--- | :--- |
-| Languages | Python, TypeScript, JavaScript, C, Java |
-| Frontend | React, Next.js, Tailwind CSS |
-| Backend & data | Node.js, Express, MongoDB, MySQL |
-| Infrastructure | AWS, Docker, Vercel, Cloudflare |
-| AI & exploration | Machine learning, LLM workflows, retrieval, reverse engineering |
+<details>
+<summary><b>A few more things about me</b></summary>
 
-## Beyond the code
+- My interests tend to become projects. Games led me to reverse engineering; web development led me to bots and APIs.
+- I like useful interfaces, readable code, and documentation that tells you what actually works.
+- Always happy to talk about anime, interesting tools, or the thing you're building.
 
-Anime, manga, science, and games keep me curious. I like projects that give me a reason to learn how something works, then build something of my own.
+</details>
 
----
+<br />
 
-**Have a project to talk about?** [Get in touch](mailto:contact@chandinh.org) or [connect on LinkedIn](https://www.linkedin.com/in/chan-dinh-a27710260/).
-
-<sub>Profile refresh · 2026</sub>
-
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Less scrolling. More building. Thanks for stopping by." />
+</p>
