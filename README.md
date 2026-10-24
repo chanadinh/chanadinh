@@ -14,20 +14,29 @@
 
 I'm a developer in Florida who likes following an idea all the way down—from the interface to the API, the model, or the game logic underneath.
 
-Right now, that means **AI-assisted security tooling**, **web applications**, and **figuring out what makes Pokémon X tick**. Outside the editor: anime, manga, science, and games.
+Right now, that means **machine learning experiments**, **web applications**, and **figuring out what makes Pokémon X tick**. Outside the editor: anime, manga, science, and games.
 
 <br />
 
 ### On my workbench
 
 <p align="center">
-  <a href="https://github.com/chanadinh/threat-hunting-pipeline"><img src="assets/threat-hunting.svg" width="49%" alt="Threat Hunting Pipeline — Python, RAG, AWS, and detection rules" /></a>
   <a href="https://github.com/chanadinh/pokemon-x-decomp"><img src="assets/pokemon-x.svg" width="49%" alt="Pokémon X — early-stage reverse engineering in C, with tests and an asset viewer" /></a>
   <a href="https://github.com/chanadinh/next-portfolio"><img src="assets/portfolio.svg" width="49%" alt="Next.js Portfolio — TypeScript, React, and MongoDB" /></a>
   <a href="https://github.com/chanadinh/medusa_bot"><img src="assets/medusa.svg" width="49%" alt="Medusa Bot — JavaScript, Discord, and API integrations" /></a>
 </p>
 
 <p align="center"><sub>Experiments and works in progress. Pokémon X is an early reconstruction, with no playable PC port yet.</sub></p>
+
+<br />
+
+### GitHub stats & rating
+
+<p align="center">
+  <a href="https://github.com/chanadinh"><img src="https://github-stats-extended.vercel.app/api?username=chanadinh&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;bg_color=101326&amp;title_color=c4a7ff&amp;text_color=a8aec6&amp;icon_color=67e8f9&amp;border_color=37314e&amp;border_radius=18" width="49%" alt="Chan's GitHub stats and letter-grade rank" /></a>
+</p>
+
+<p align="center"><sub>Public GitHub activity · Letter-grade rank provided by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub></p>
 
 <br />
 

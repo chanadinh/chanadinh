@@ -28,10 +28,9 @@ hero+='<path d="M48 287H912" stroke="#34304a"/>'
 hero+=text(48,315,'FLORIDA, US',11,mono=True)+text(681,315,'CODE / LEARN / REPEAT',11,mono=True)
 (OUT/'header.svg').write_text(svg(960,340,hero))
 projects=[
-('threat-hunting','01 / AI + SECURITY','Threat Hunting Pipeline',['From threat feeds to detection rules.','LLM-assisted analysis, RAG, and reporting.'],'PYTHON / AWS / OPENSEARCH','#c4a7ff'),
-('pokemon-x','02 / REVERSE ENGINEERING','Inside Pokémon X',['Reconstructing game logic in portable C.','Tested subsystems + a native asset viewer.'],'C / PYTHON / SDL2','#67e8f9'),
-('portfolio','03 / FULL-STACK','Next.js Portfolio',['A home for projects, built as a product.','Admin dashboard, content, and MongoDB.'],'NEXT.JS / TYPESCRIPT / REACT','#f9b8d2'),
-('medusa','04 / BOTS + APIS','Medusa Bot',['A Discord bot connecting multiple APIs.','A playground for useful integrations.'],'JAVASCRIPT / DISCORD','#a6e3a1')]
+('pokemon-x','01 / REVERSE ENGINEERING','Inside Pokémon X',['Reconstructing game logic in portable C.','Tested subsystems + a native asset viewer.'],'C / PYTHON / SDL2','#67e8f9'),
+('portfolio','02 / FULL-STACK','Next.js Portfolio',['A home for projects, built as a product.','Admin dashboard, content, and MongoDB.'],'NEXT.JS / TYPESCRIPT / REACT','#f9b8d2'),
+('medusa','03 / BOTS + APIS','Medusa Bot',['A Discord bot connecting multiple APIs.','A playground for useful integrations.'],'JAVASCRIPT / DISCORD','#a6e3a1')]
 for slug,label,title,lines,stack,accent in projects:
     body='<rect x="1" y="1" width="466" height="216" rx="17" fill="none" stroke="#37314e"/>'
     body+=text(24,32,label,10,accent,mono=True)+text(24,79,title,23,'#f4f2ff',700)
@@ -42,4 +41,4 @@ for slug,label,title,lines,stack,accent in projects:
     (OUT/f'{slug}.svg').write_text(svg(468,218,body))
 footer=text(28,38,'LESS SCROLLING. MORE BUILDING.',12,'#c4a7ff',mono=True)+text(662,38,'THANKS FOR STOPPING BY :)',11,'#67e8f9',mono=True)
 (OUT/'footer.svg').write_text(svg(960,64,footer))
-print('Built 6 SVG assets.')
+print(f'Built {len(projects) + 2} SVG assets.')
