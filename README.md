@@ -33,10 +33,10 @@ Right now, that means **machine learning experiments**, **web applications**, an
 ### GitHub stats & rating
 
 <p align="center">
-  <a href="https://github.com/chanadinh"><img src="https://github-stats-extended.vercel.app/api?username=chanadinh&amp;show_icons=true&amp;hide_rank=false&amp;rank_icon=default&amp;bg_color=101326&amp;title_color=c4a7ff&amp;text_color=a8aec6&amp;icon_color=67e8f9&amp;border_color=37314e&amp;border_radius=18" width="49%" alt="Chan's GitHub stats and letter-grade rank" /></a>
+  <a href="https://github.com/chanadinh"><img src="https://github-stats-extended.vercel.app/api?username=chanadinh&amp;show_icons=true&amp;include_all_commits=true&amp;theme=nightowl" width="49%" alt="Chan's GitHub stats and letter-grade rank" /></a>
 </p>
 
-<p align="center"><sub>Public GitHub activity · Letter-grade rank provided by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub></p>
+<p align="center"><sub>GitHub activity · Letter-grade rank provided by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub></p>
 
 <br />
 
